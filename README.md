@@ -78,5 +78,6 @@ Improve admission processes to maintain balanced patient flow.
 Monitor delay percentages closely and work towards improving the on-time response rate.
 
 ## Dashboard Screenshot
+<a href="https://github.com/Kkayande2004/-Patient-Flow-Management-Dashboard/blob/main/Screenshot%202025-07-13%20224336.png">Screenshot</a>
 
 
